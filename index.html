@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        
+        <title>Simulador Copa 2022</title>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="icon" type="image/png" href="images/logo.png">
+
+    </head>
+    <body>
+
+            <div class="title">
+                <h1 class="text-main">Simulador da Copa 2022</h1>
+            </div>
+            
+            <p class="text-sub">Simule os resultados dos jogos da Copa 2022, e tente adivinhar o campeão, quais times vão às finais da Copa e quem será desclassificado da Copa</p>
+
+            <div class="copa">
+                <table id="table">
+                    <tr class="first">
+                        <th>CLASSIFICAÇÃO</th>
+                        <th>P</th>
+                        <th>J</th>
+                        <th>V</th>
+                        <th>SG</th>
+                        <th>GP</th>
+                    </tr>
+                    <tr id="brasil">
+                        <td class="nome">Brasil</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                    </tr>
+                    <tr id="servia">
+                        <td class="nome">Servia</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                    </tr>
+                    <tr id="suiça">
+                        <td class="nome">Suiça</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                    </tr>
+                    <tr id="camaroes">
+                        <td class="nome">Camarões</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                        <td>0</td>
+                    </tr>
+                </table>
+            </div>
+
+
+            <ul id="jogos">
+                <p class="text-sub1">Jogos</p>
+                <div class="rodada1">
+                    <div class="info">
+                        <p>1° Rodada</p>
+                    </div>
+                    <div class="com-input">
+                        <span>SUI <img src="images/suica.png" class="image"> <input type="number"  class="sui1" oninput="on_input()"> x  <input type="number" class="cam1" oninput="on_input()"> CAM <img src="images/camaroes.png" class="image"></span>
+                    </div>
+                    <div class="com-input">
+                        <span>BRA <img src="images/brasil.png" class="image"> <input type="number" class="bra1" oninput="on_input()"> x  <input type="number" class="ser1" oninput="on_input()"> SER <img src="images/servia.png" class="image"></span>
+                    </div>
+                </div>
+                <div class="rodada2">
+                    <div class="info">
+                        <p>2° Rodada</p>
+                    </div>
+                    <div class="com-input">
+                        <span>CAM <img src="images/camaroes.png" class="image"> <input type="number"  class="cam2" oninput="on_input()"> x <input type="number" class="ser2" oninput="on_input()"> SER <img src="images/servia.png" class="image"></span>
+                    </div>
+                    <div class="com-input">
+                        <span>BRA <img src="images/brasil.png" class="image"> <input type="number"  class="bra2" oninput="on_input()"> x  <input type="number" class="sui2" oninput="on_input()"> SUI <img src="images/suica.png" class="image"></span>
+                    </div>
+                </div>
+                <div class="rodada3">
+                    <div class="info">
+                        <p>3° Rodada</p>
+                    </div>
+                    <div class="com-input">
+                        <span>CAM <img src="images/camaroes.png" class="image"> <input type="number"  class="cam3" oninput="on_input()"> x  <input type="number" class="bra3" oninput="on_input()"> BRA <img src="images/brasil.png" class="image"></span>
+                    </div>
+                    <div class="com-input">
+                        <span>SER <img src="images/servia.png" class="image"> <input type="number"  class="ser3" oninput="on_input()"> x  <input type="number" class="sui3" oninput="on_input()"> SUI <img src="images/suica.png" class="image"></span>
+                    </div>
+                </div>
+            </ul>
+    <script src="script/script.js"></script>
+
+    </body>
+</html>

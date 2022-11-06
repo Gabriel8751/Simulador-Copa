@@ -1,0 +1,220 @@
+.header {
+    overflow: hidden;
+    background-color: #ffffff;
+    padding: 20px 10px;
+    margin: 0px 0px;
+}
+
+.header a {
+    float: initial;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+
+}
+
+.title {
+    margin-top: 3%;
+}
+
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.header a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+.input-info img{
+    padding: auto;
+}
+
+.text-main {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Open Sans';
+    color: #333;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.menu-bg {
+	background: rgb(44, 188, 89);
+    counter-reset: #ffffff;
+}
+
+.image-logo {
+    height: 80px;
+    width: 200px;
+}
+
+.menu {
+    font-size: 1.25rem;
+    height: 130px;
+	align-items: center;
+	justify-content: space-between;
+    width: 100%;
+	margin: 0 auto;
+    padding: 0;
+	flex-wrap: wrap;
+    align-items: center;
+    color: #ffffff;
+}
+
+.text {
+    text-align: center;
+}
+
+.menu__logo {
+	margin: 10px;
+    padding: 10px;
+}
+
+.text-sub {
+    text-align: center;
+    font-size: 1.5rem;
+    
+}
+
+.text-sub1 {
+    text-align: center;
+    font-size: 1.5rem;
+    
+}
+
+.text-sub1::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 0.14rem;
+    background-color: #666;
+    margin: 0 auto;
+    position: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+}
+
+.table-insert {
+    text-align: right;
+}
+
+p {
+    color: #666;
+    font-size: 1.125rem;
+    letter-spacing: -.02em;   
+}
+
+.copa {
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 33%;
+    font-size: 1.4rem;
+}
+
+.input-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.image {
+    margin-bottom: -10px;
+}
+
+td {
+    vertical-align: inherit;
+    border-color: inherit;
+    text-align: center;
+    width: 160px;
+    border-bottom: 1px solid #cdcdcd;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+th {
+    color: #666;
+    border-bottom: 1px solid #cdcdcd;
+    border-right: 1px solid #cdcdcd;
+    border-top: 1px solid #cdcdcd;
+}
+
+.com-input {
+    margin-bottom: 10px;
+    padding: 20px;
+    border: 1px solid #cdcdcd;
+    position: relative;
+    margin-left: auto;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.nome {
+    border-right: 1px solid #cdcdcd;
+}
+
+.calcular {
+    width: 100px;
+    height: 40px;
+    margin-left: 83px;
+}
+
+input {
+    width: 30px;
+    height: 40px;
+}
+
+.rodada1 {
+    margin-left: 13%;
+    align-items: center;
+    width: 300px;
+    float: left;
+}
+
+.rodada2 {
+    margin-left: 13%;
+    align-items: center;
+    width: 300px;
+    float: left;
+}
+.rodada3 {
+    margin-left: 13%;
+    align-items: center;
+    width: 300px;
+    float: left;
+}
+
+.info {
+    top: 10%;
+    transform: translateY(-115%);
+}
+
+
+
+tr:nth-child(even) {
+    background-color: rgb(56, 172, 250);
+}
