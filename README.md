@@ -20,7 +20,7 @@ https://gabriel8751.github.io/Simulador-Copa/
 <img src = https://user-images.githubusercontent.com/81639655/201977289-5083cbb6-bb51-4117-9f22-772b4b7d43fc.jpg>
 
 <h2> Documento de Visão </h2>
-https://github.com/Gabriel8751/Simulador-Copa/blob/main/Vis%C3%A3o_modelo%20-%20Simulador%20da%20Copa%20-%20Grupo%20G.pdf
+![modelo de visao](https://github.com/Gabriel8751/Simulador-Copa/files/10014610/Visao_modelo.-.Simulador.da.Copa.-.Grupo.G.pdf)
 
 <h2> Manual do Usuário</h2>
 <p> No link abaixo é possível visualizar o Manual do Usuário:</p>
