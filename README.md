@@ -17,7 +17,7 @@ https://gabriel8751.github.io/Simulador-Copa/
 - [x] Manual do usuário
 
 <h2> Diagrama de Caso de Uso</h2>
-![diagrama (convert io)](https://user-images.githubusercontent.com/81639655/201977289-5083cbb6-bb51-4117-9f22-772b4b7d43fc.jpg)
+<img src = https://user-images.githubusercontent.com/81639655/201977289-5083cbb6-bb51-4117-9f22-772b4b7d43fc.jpg>
 
 <h2> Documento de Visão </h2>
 <p> No link abaixo é possível visualizar o Documento de Visão:</p>
