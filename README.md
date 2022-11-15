@@ -10,6 +10,7 @@
 <p> Acessem o link do GitHub Pages para usar o <b>Simulador da Copa 2022 - Grupo G</b></p>
 https://gabriel8751.github.io/Simulador-Copa/
 
+<h2> Conteúdos </h2>
 ### 
 - [x] Diagrama de Caso de Uso
 - [x] Documento de Visão
