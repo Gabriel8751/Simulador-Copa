@@ -17,10 +17,9 @@ https://gabriel8751.github.io/Simulador-Copa/
 - [x] Manual do usuário
 
 <h2> Diagrama de Caso de Uso</h2>
-<img src = https://user-images.githubusercontent.com/81639655/201977289-5083cbb6-bb51-4117-9f22-772b4b7d43fc.jpg>
+![modelo de visao](https://github.com/Gabriel8751/Simulador-Copa/issues/2#issue-1450087442)
 
 <h2> Documento de Visão </h2>
-<p> No link abaixo é possível visualizar o Documento de Visão:</p>
 https://github.com/Gabriel8751/Simulador-Copa/blob/main/Vis%C3%A3o_modelo%20-%20Simulador%20da%20Copa%20-%20Grupo%20G.pdf
 
 <h2> Manual do Usuário</h2>
