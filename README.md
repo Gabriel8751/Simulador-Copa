@@ -9,7 +9,7 @@
 - [x] Manual do usuário
 
 <h2> Diagrama de Caso de Uso</h2>
-![image](https://user-images.githubusercontent.com/81639655/201968654-d30aec29-d62e-4085-b62f-b4851ccbdb93.png)
+![diagrama](https://github.com/Gabriel8751/Simulador-Copa/blob/main/images/diagrama.jfif)
 
 <h2> Documento de Visão </h2>
 <p> No link abaixo é possível visualizar o Documento de Visão:</p>
