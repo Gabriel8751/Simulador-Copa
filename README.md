@@ -1,10 +1,14 @@
 <h1 align="center"> Simulador da Copa 2022 - Grupo G</h1>
 
-<p align="center">Trabalho de Engenharia de Software III</p>
+<p align="center"> 1º Trabalho de Engenharia de Software III</p>
 
 <p> Trabalho feito por: </p>
 <p> Cintia Mariana Carvalho de Oliveira - Github: https://github.com/CintiaMariana </p>
 <p> Gabriel da Silva Pereira - Github: https://github.com/Gabriel8751 </p>
+
+<h2> GitHub Pages </h2>
+<p> Acessem o link do GitHub Pages para usar o <b>Simulador da Copa 2022 - Grupo G</b></p>
+https://gabriel8751.github.io/Simulador-Copa/
 
 ### 
 - [x] Diagrama de Caso de Uso
