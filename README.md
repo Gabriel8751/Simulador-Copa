@@ -2,6 +2,10 @@
 
 <p align="center">Trabalho de Engenharia de Software III</p>
 
+<p> Trabalho feito por: </p>
+<p> Cintia Mariana Carvalho de Oliveira - Github: https://github.com/CintiaMariana </p>
+<p> Gabriel da Silva Pereira - Github: https://github.com/Gabriel8751 </p>
+
 ### 
 - [x] Diagrama de Caso de Uso
 - [x] Documento de Visão
