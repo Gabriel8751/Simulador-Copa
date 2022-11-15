@@ -23,6 +23,9 @@ https://gabriel8751.github.io/Simulador-Copa/
 <p> No link abaixo é possível visualizar o Documento de Visão:</p>
 https://github.com/Gabriel8751/Simulador-Copa/blob/main/Vis%C3%A3o_modelo%20-%20Simulador%20da%20Copa%20-%20Grupo%20G.pdf
 
+<h2>Arquivo para Teste Automatizado</h2>
+https://github.com/Gabriel8751/Simulador-Copa/blob/main/Automatiza%C3%A7%C3%A3o.rar
+
 <h2> Manual do Usuário</h2>
 <p> No link abaixo é possível visualizar o Manual do Usuário:</p>
 https://github.com/Gabriel8751/Simulador-Copa/blob/main/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo.pdf
