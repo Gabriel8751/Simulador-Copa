@@ -17,7 +17,7 @@
 
 <h2> Documento de Visão </h2>
 <p> No link abaixo é possível visualizar o Documento de Visão:</p>
-https://github.com/Gabriel8751/Simulador-Copa/blob/main/Vis%C3%A3o_modelo%20-%20Simulador%20da%20Copa%20-%20Grupo%20G.docx
+https://github.com/Gabriel8751/Simulador-Copa/blob/main/Vis%C3%A3o_modelo%20-%20Simulador%20da%20Copa%20-%20Grupo%20G.pdf
 
 <h2> Manual do Usuário</h2>
 <p> No link abaixo é possível visualizar o Manual do Usuário:</p>
